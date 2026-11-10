@@ -1,4 +1,4 @@
-# 全自动网页剥壳机 (URL to Markdown)
+# URL to Markdown (网页剥壳机)
 
 一个浏览器插件，一键提取网页正文并转换为 Markdown 格式。
 
